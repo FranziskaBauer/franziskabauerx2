@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo_HP {
+  width: 25%;
+}
+
+.c-header_title_line {
+  font-size: 0.7em;
+  color: white;
+}
+
+.c-header_heading_label {
+  font-weight: 500;
+}
+
+.o-h1 {
+  color: black;
+}
+
+.o-scroll {
+background-color: coral;
+}
